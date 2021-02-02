@@ -12,7 +12,7 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shubham-s-pandey&layout=compact&theme=material-palenight" />
 </a>
-<a href="https://github.com/anuraghazra/shubham-s-pandey.github.io">
+<a href="https://github.com/shubham-s-pandey/shubham-s-pandey.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shubham-s-pandey&repo=shubham-s-pandey.github.iot" />
 </a>
