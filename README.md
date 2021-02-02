@@ -10,6 +10,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-s-pandey&show_icons=true&include_all_commits=true&theme=highcontrast" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-s-pandey&repo=shubham-s-pandey.github.io&theme=dracula" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-s-pandey&layout=compact&theme=algolia" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-s-pandey&layout=compact&theme=maroongold" />
 
 *************
