@@ -13,8 +13,9 @@
 </a>
 <a href=#>
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-s-pandey&repo=shubham-s-pandey.github.io&theme=vision-friendly-dark" />
- </a>
- <a href=#>
+</a>
+<a href=#>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-s-pandey&layout=compact&theme=maroongold" />
 </a>
+
 *************
