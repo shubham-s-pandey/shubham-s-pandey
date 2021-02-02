@@ -1,7 +1,14 @@
 ## WhoAmI
+
+  
+# Hello, folks!
+
 <a href=#>
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 </a>
+
+
 #### I am **Shubham Pandey**
 
 
