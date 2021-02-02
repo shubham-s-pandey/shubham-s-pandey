@@ -9,6 +9,7 @@
 
 *************
 
+## &#x1f4c8; GitHub Stats
 <a href=#>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-s-pandey&show_icons=true&include_all_commits=true&theme=highcontrast" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-s-pandey&layout=compact&theme=maroongold" />
